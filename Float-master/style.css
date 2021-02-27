@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.blok-1 {
+    border: 2px solid black;
+    background-color: black;
+    height: 400px;
+    width: 600px;
+}
+.blok-2 {
+    float: top;
+    background-color: yellow;
+    height: 25%;
+}
+.blok-3 {
+    float: left;
+    background-color: red;
+    height: 50%;
+    width: 23%;
+}
+.blok-4 {
+    float: left;
+    background-color: green;
+    height: 50%;
+    width: 23%;
+}
+.blok-5 {
+    float: left;
+    background-color: blue;
+    height: 50%;
+    width: 28%;
+}
+.blok-6 {
+    float: left;
+    background-color: black;
+    height: 40%;
+    width: 20%;
+}
+.blok-7 {
+    clear: both;
+    background-color: yellow;
+    height: 25%;
+}

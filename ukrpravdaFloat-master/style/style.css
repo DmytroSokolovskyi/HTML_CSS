@@ -1,0 +1,44 @@
+.container-top {
+    display: inline-block;
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+}
+
+.project-menu {
+    display: inline-block;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+.project_menu__item {
+    float: left;
+    margin-left: 10px;
+}
+ul {
+    list-style-type: none;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+.memu-down {
+    display: inline-block;
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+}
+.main-menu {
+    display: inline-block;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+.main-menu-item {
+    float: left;
+    margin-left: 10px;
+}
+
+
+

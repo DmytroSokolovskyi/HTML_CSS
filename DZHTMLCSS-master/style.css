@@ -1,0 +1,108 @@
+body {
+    background-color: azure;
+/ / background-image: url("./picture/5c30a60c69a5257a05250e60c2de272c.jpg");
+    background-image: url("./picture/thumb-1920-637668.jpg");
+
+}
+
+.for-image {
+/ / background-image: url("./picture/5c30a60c69a5257a05250e60c2de272c.jpg");
+}
+
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #1d18b1;
+    text-align: center;
+    border-radius: 5%;
+    background-color: #d1d6db;
+    opacity: 0.7;
+}
+
+h2 {
+    color: #1d18b1;
+    text-align: center;
+    border-radius: 5%;
+    background-color: #d1d6db;
+    opacity: 0.7;
+}
+
+h3 {
+    text-align: center
+}
+
+.class-zmist {
+    display: inline-block;
+    color: maroon;
+    border: 2px solid black;
+    border-radius: 5%;
+    background-color: #d1d6db;
+    opacity: 0.7;
+    width: 23%;
+}
+
+#foto\ ocnova {
+    float: right;
+    display: inline-block;
+    height: 240px;
+    border-radius: 10%;
+    font-size: 12%;
+}
+
+.foto-osnova {
+    float: right;
+    display: inline-block;
+    height: 250px;
+    border-radius: 10%;
+    font-size: 12%;
+}
+
+.pic-foto-osnova {
+    height: 100%;
+    border-radius: 5%;
+}
+
+.foto-Emmi {
+    height: 30px;
+    border-radius: 5%;
+}
+
+.pic-foto {
+    display: inline-block;
+    height: 250px;
+    border-radius: 10%;
+    font-size: 12%;
+}
+
+p {
+    background-color: #d1d6db;
+    opacity: 0.8;
+    border: 2px solid black;
+    border-radius: 3%;
+}
+
+.blok-text {
+    display: inline-block;
+    float: left;
+    border: 2px solid black;
+    border-radius: 3%;
+    width: 38%;
+    height: 260px;
+    text-align: center;
+    font-size: 150%
+
+}
+
+.blok-film {
+    display: inline-block;
+    float: right;
+    border: 2px solid black;
+    border-radius: 3%;
+    width: 60%;
+    height: auto;
+}
+
+.film {
+    display: inline-block;
+}

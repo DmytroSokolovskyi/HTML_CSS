@@ -1,0 +1,152 @@
+body {
+    background-color: #9b8f8a;
+
+}
+
+p {
+    text-align: center;
+}
+
+.header {
+    background: 2px coral;
+    height: 200px;
+}
+
+.conteiner-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: 2px #5b392c;
+    height: 130px;
+}
+
+.box-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: green;
+    height: 80%;
+    width: 80%
+}
+
+.box-2 {
+    display: flex;
+    align-items: center;
+    background: floralwhite;
+    height: 80%;
+    width: 80%
+}
+
+.content-1 {
+    border: 2px solid black;
+    background: #d9e3ee;
+    height: 300px;
+
+}
+
+.conteiner-content {
+    display: flex;
+}
+
+.content-1 div {
+    margin: 2px;
+    width: 100%;
+    height: 90%;
+}
+
+.blok-1 {
+    background-color: aliceblue;
+}
+
+.blok-2 {
+    background-color: #bac3cb;
+}
+
+.blok-3 {
+    background-color: #667788;
+}
+
+.blok-4 {
+    background-color: #394958;
+}
+
+.content-2 {
+    border: 2px solid black;
+    background: #959ec1;
+ //   height: 600px;
+ //   width: 600px;
+}
+.conteiner-content-blok {
+    display: flex;
+    border: 2px solid black;
+    background: #253fa7;
+
+}
+.blok-grop {
+    border: 2px solid black;
+   background: #b32f59;
+   width: 33%;
+    justify-content: center;
+}
+.blok-box-left {
+
+   justify-content: center;
+    border: 2px solid #2fd4ba;
+    background: #8b9ce7;
+    width: 85%;
+    margin: 0 auto;
+}
+.block-box-left-head {
+}
+.box-left-head {
+    display: flex;
+    justify-content: center;
+}
+.box-left {
+    border: 1px solid #2fd4ba;
+    justify-content: center;
+    background: #5a400a;
+   width:50%;
+   height: 400px;
+}
+
+.centr-blok-container {
+    display: flex;
+
+}
+.centr-blok-white {
+    background: white;
+    height: 100px;
+}
+.centr-blok-grop-1 {
+    background: #e5d9af;
+    width:50%;
+  height: 400px;
+}
+.centr-blok-grop-2 {
+    background: white;
+    width:50%;
+   height: 400px;
+}
+.centr-blok-grop-3 {
+    background: #696866;
+    width:50%;
+    height: 400px;
+}
+.A-C-container {
+    display: flex;
+    align-items: flex-end;
+    width:100%;
+    height: 87%;
+
+}
+.A-C {
+    background: cadetblue;
+    width:50%;
+    height: 100%;
+}
+.B-C {
+    background: slateblue;
+    width:50%;
+    height: 50%;
+}
